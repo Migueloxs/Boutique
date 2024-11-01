@@ -1,0 +1,11 @@
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueAppSol.Data.deps.json
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueAppSol.Data.pdb
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.AssemblyInfo.cs
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\refint\BoutiqueAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueAppSol.Data.pdb
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\ref\BoutiqueAppSol.Data.dll

@@ -1,0 +1,13 @@
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueWebAppSol.Data.deps.json
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueWebAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\bin\Debug\net8.0\BoutiqueWebAppSol.Data.pdb
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.AssemblyInfoInputs.cache
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.AssemblyInfo.cs
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\refint\BoutiqueWebAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.pdb
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\ref\BoutiqueWebAppSol.Data.dll
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.csproj.AssemblyReference.cache
+C:\Users\robin\source\repos\Boutique Web App\BoutiqueWebAppSol\BoutiqueAppSol\obj\Debug\net8.0\BoutiqueWebAppSol.Data.sourcelink.json
